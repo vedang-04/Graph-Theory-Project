@@ -4,7 +4,6 @@ This Analytical Project was done for CSO-323: Graph Theory and Applications open
 <br>
 The dataset used here is the Protein Dataset wherein the nodes are the protein molecules and the edges connecting them are the interaction amongst them. The analysis performed here is mainly based on the network structure and topology of this dataset along with its corresponding scale-free network properties. Along with this various aspects like communities, and connected components present in it are studied.
 <br>
-<br>
 From the analysis few interesting points are;
 <br>
 <br>
